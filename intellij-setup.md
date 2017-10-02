@@ -47,10 +47,10 @@ To install the plugins:
 After restarting, the Dart and Flutter plugins should both display in the left
 navigation panel when you create a new project.
 
-### Configuring the Flutter plugin
+### Create a New Project
 
-1. Open preferences (**Preferences** on macOS, **File>Settings** on Windows & Linux).
-1. Select **Languages & Frameworks>Flutter**.
-1. Enter or browse to your Flutter SDK directory in **Flutter SDK path**. This is the top-level `flutter`
+1. Create a new Flutter project by clicking **Create New Project** on the Welcome screen or **File>New Project**.
+1. In the New Project window, select **Flutter** at left.
+1. Click the Ellipses (**...**) button next to the **Flutter SDK path** and browse to your Flutter SDK directory. This should be your top-level `flutter`
    directory, without the `bin` subdirectory. For example, `c:\Users\obiwan\flutter` / `/Users/obiwan/flutter`.
-1. Click **OK**
+1. Once your Flutter SDK path is populated correctly, click **Open** and then **Next** to continue making your project.
